@@ -1,0 +1,2 @@
+Setiap File Excel yang dibuka, ketika ditutup jangan lupa untuk tidak disimpan (save)
+kecuali simpannya di drive atau tempat lain
